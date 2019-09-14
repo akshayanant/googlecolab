@@ -1,0 +1,1 @@
+Notebook for classifying MNIST digits using FFN in Pytorch
